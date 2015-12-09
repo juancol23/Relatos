@@ -1,0 +1,48 @@
+body{
+	font-size:16px; 
+}
+
+header{ 
+	background-image: url(../images/fotografia.jpg);
+	background-repeat: no-repeat;	
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 50% 50%;	
+	height: 25em; 
+	 
+}
+header .titulo{
+	 margin: 0 auto;
+	 text-align: center;
+	 padding: 2.5em 0em 0em 0em;
+}
+header .descripcion{ 
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.wrap .descripcion{
+	 margin: 0 auto;
+	 text-align: center;
+	 padding: 3em 1em 1em 1em;
+}
+.wh{
+	color: white !important;
+}
+.text-center{
+	text-align: center;
+}
+.justificado{
+	text-align: justify;
+}
+.card-panel{
+    transition: box-shadow .50s;
+    margin: 0 !important;
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+#direcciones i{
+	color:gray;
+}
+ 
